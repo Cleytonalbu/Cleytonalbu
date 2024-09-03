@@ -3,7 +3,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cleyton.albuquerque@dcx.ufpb.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleytonalbu)
 
-- Atualmente me aventurando em JavaScript e Python 🐍
+- Atualmente me aventurando no mundo JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-back?style=flat&logo=javascript&logoColor=white&labelColor=)
+
+
+
 - Sistemas de Informações pela UFPB 👨‍💻
 
 
